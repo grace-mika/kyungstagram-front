@@ -28,7 +28,12 @@ p {
   font-weight: bold;
 }
 
-p:hover {
+a {
+  text-decoration: none;
+  color: rgb(70, 100, 190);
+}
+
+a:hover {
   text-decoration: underline;
   color: blueviolet;
 }
