@@ -1,0 +1,51 @@
+/*Google Web fonts CDN*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+
+body {
+  border: 1px solid;
+}
+
+.container {
+  border: 5px solid;
+}
+
+header {
+  border: 1px solid;
+  width: 100%;
+}
+
+nav {
+  border: 2px solid red;
+  width: 1200px;
+  height: 80px;
+  display: flex;
+  margin: auto;
+}
+
+.main {
+  border: 5px solid;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.feeds {  
+  border: 2px solid red;
+  width: 800px;
+  height: 800px;
+}
+
+.article {
+  border: 2px solid blue;
+  width: 700px;
+  height: 650px;
+  display: flex;
+  margin: auto;
+}
+
+.main-right {
+  border: 2px solid red;
+  width: 400px;
+  height: 800px;
+}
